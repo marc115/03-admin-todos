@@ -9,7 +9,9 @@ docker compose up -d
 
 3. Reemplazar las variables de entorno
 
-4. Ejecutar el seed para [crear la base de datos local](localhost:3000/api/seed)
+4. Ejecutar la migración para crear la tabla
+
+5. Ejecutar el seed para [crear la base de datos local](localhost:3000/api/seed)
 
 # Prisma commands
 ```
